@@ -1,7 +1,7 @@
 ## Hi 👋 I'm KHADEEJAH ZAFEERAH BINTI KHAIRUL FAIZAL
 
 🎓 *Bachelor of Computer Science (Bioinformatics) Student*  
-🏫 *University Technology Malaysia*  
+🏫 *University Teknologi Malaysia*  
 📍 81310 Skudai
 
 ---
@@ -15,7 +15,7 @@
 
 ### 🎓 Education
 - * Bachelor of Computer Science (Bioinformatics) *  
-  [University Technology Malaysia]  
+  [University Teknologi  Malaysia]  
   [2025 - Recent]
 
 - *Matriculation*  
